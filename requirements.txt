@@ -1,0 +1,11 @@
+streamlit
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-google-genai
+langchain-text-splitters
+chromadb==0.5.23
+sentence-transformers
+pypdf
+python-dotenv
+rank-bm25
+langchain-ollama
